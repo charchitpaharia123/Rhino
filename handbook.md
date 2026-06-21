@@ -1,4 +1,3 @@
-```markdown
 # Rhino 8 Professional Handbook
 
 **Version:** 0.1
@@ -4094,10 +4093,3 @@ Mastering Construction Planes transforms Rhino from a 2D drafting environment in
 
 The next chapter begins the essential drawing tools that form the foundation of nearly every Rhino model. You'll learn not only how each command works, but when professionals choose one curve type over another for clean, editable, and manufacturing-ready geometry.
 
-
-
-
-
-
-
-```
